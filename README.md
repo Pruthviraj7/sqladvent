@@ -16,7 +16,12 @@ Thank you, **Dawn Choo**, for creating such a meaningful challenge. It’s been 
 
 ### 📊 My Power BI Dashboard:
 
-*(Attach or link your Power BI dashboard here)*
+![image](https://github.com/user-attachments/assets/b969a429-b126-4efe-92f6-84207dba4517)
+![image](https://github.com/user-attachments/assets/fc4361e3-6e1e-4d6d-82e2-e760760b5a08)
+![image](https://github.com/user-attachments/assets/11591c15-dac3-40bb-aac8-ac9c53c87348)
+![image](https://github.com/user-attachments/assets/2fd004a9-cccd-4572-a0b1-3039e7923582)
+![image](https://github.com/user-attachments/assets/4b5f19e8-52bf-4e4a-ae52-e5ba2f572de3)
+
 
 ---
 
