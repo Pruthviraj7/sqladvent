@@ -23,7 +23,4 @@ Thank you, **Dawn Choo**, for creating such a meaningful challenge. It’s been 
 ![image](https://github.com/user-attachments/assets/4b5f19e8-52bf-4e4a-ae52-e5ba2f572de3)
 
 
----
 
-## Tags:
-`#SQLAdvent` `#PowerBI` `#ThankYou` `#ContinuousLearning` `#DataAnalytics`
